@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sklan Lab",
-    "currentPage": "httpsellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.html",
+    "currentPage": "httpsellasklan.github.ioellasklan.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 31,
+    "uniqCompNum": 48,
     "versionPublish": "5.0.0",
     "favicon": false,
     "robotsSwitcher": false,
@@ -57,7 +57,7 @@
     "cookiesAlert": false
   },
   "pages": {
-    "httpsellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.github.ioellasklan.html": {
+    "httpsellasklan.github.ioellasklan.html": {
       "settings": {
         "main": true,
         "title": "Sklan Lab",
