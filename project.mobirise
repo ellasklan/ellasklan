@@ -55,14 +55,15 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "cookiesAlert": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"qgSgofBZJldJzvkP8LNLgsCK-75D5skEO65XENVU46s\" />"
   },
   "pages": {
     "html.html": {
       "settings": {
         "main": true,
         "title": "Sklan Lab",
-        "meta_descr": "The website of the Sklan molecular virology lab at Tel Aviv University\n\n<meta name=\"google-site-verification\" content=\"qgSgofBZJldJzvkP8LNLgsCK-75D5skEO65XENVU46s\" />",
+        "meta_descr": "The website of the Sklan molecular virology lab at Tel Aviv University\n\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
