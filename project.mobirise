@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 48,
+    "uniqCompNum": 55,
     "versionPublish": "5.0.0",
     "favicon": false,
     "robotsSwitcher": false,
@@ -54,14 +54,15 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "html.html": {
       "settings": {
         "main": true,
         "title": "Sklan Lab",
-        "meta_descr": "The website of the Sklan molecular virology lab at Tel Aviv University",
+        "meta_descr": "The website of the Sklan molecular virology lab at Tel Aviv University\n\n<meta name=\"google-site-verification\" content=\"qgSgofBZJldJzvkP8LNLgsCK-75D5skEO65XENVU46s\" />",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
