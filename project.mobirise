@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sklan Lab",
-    "currentPage": "httpsellasklan.github.ioellasklan.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "cookiesAlert": false
   },
   "pages": {
-    "httpsellasklan.github.ioellasklan.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Sklan Lab",
